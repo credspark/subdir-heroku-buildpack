@@ -28,6 +28,5 @@ if [ -f $ENV_DIR/PROJECT_PATH ]; then
 fi
 
 echo "PROJECT_PATH is undefined"
-exit 1
-
+echo "Taking no action."
 
